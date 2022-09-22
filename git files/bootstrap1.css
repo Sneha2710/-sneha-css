@@ -1,0 +1,19 @@
+.bg-container
+{
+    background-image:url("https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-size: cover;
+    height:700px;
+    width:1520px;
+}
+.card
+{
+    background-color:rgb(104, 104, 231);
+    width:1520px;
+    text-align: center;
+}
+.button
+{
+    background-image: linear-gradient(to right, blue, violet, gold);
+    width:300px;
+    border-radius:5px;
+}

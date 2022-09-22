@@ -1,0 +1,48 @@
+.img
+{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    border:solid;
+    height:500px;
+    width:400px;
+    margin:500px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.text
+{
+
+    border:solid;
+    border-color:white;
+    background-color:white;
+    border-radius:20px;
+    color:#323f4b;
+    height:200px;
+    width:360px;
+    margin:500px;
+    margin-top:20px;
+    margin-bottom:20px;
+    position:relative;
+    top:-40px;
+    padding:20px;
+}
+.no
+{
+    border-color:white;
+    margin:50px;
+    position: relative;
+    top:-25px;
+    border-style:solid;
+    border-radius:10px;
+}
+.clr
+{
+    margin-right:50px;
+    position: relative;
+    top:-25px;
+    border-color:white;
+    background-color: rgb(30, 30, 77);
+    color:white;
+ 
+}

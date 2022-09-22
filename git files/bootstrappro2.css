@@ -1,0 +1,21 @@
+.bs-home
+{
+  background-image:url("https://www.bentleymotors.com/content/dam/bentley/Master/Models/derivative-strategy-/continental-gt/gt-s/hpc%201920x1080%20GT%20S%20updated.jpg/_jcr_content/renditions/original.image_file.1920.1080.file/hpc%201920x1080%20GT%20S%20updated.jpg");
+  background-size:cover;  
+  height:800px;
+  width:1500px;
+}
+.card
+{
+    background-color:rgb(5, 108, 110);
+    opacity:0.9;
+    padding:10px;
+    margin:10px;
+    color:black;
+    
+}
+
+.card img{
+    height:100px;
+    width:150px;
+}

@@ -1,0 +1,73 @@
+body
+{
+    background-image:url("pink.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin:center;
+}
+.bg
+{
+
+   margin-right:100px;
+   height:700px;
+   width:400px;
+   
+   background-color: aliceblue;
+   margin-left: 500px;
+   margin-top: 20px;
+
+  
+}
+.d6
+{
+    float:rigth;
+}
+
+.form{
+    height: 20px;
+
+}
+.form h1{
+    padding: 20px;
+    text-align: center;
+}
+.d4{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.input{
+    margin-left: 50px; 
+    width: 280px;
+    border: none;
+    border-bottom:1px solid black ;
+    background-color: aliceblue;
+    outline: none;
+}
+.d6{
+    float: right;
+    margin-right: 70px;
+}
+.btn{
+    width: 299px;
+    height: 30px;
+    background: linear-gradient(to right, #579ae2, #f200ff00 );
+    margin-left: 45px;
+    border-radius: 20px;
+    color: rgb(255, 101, 101);
+}
+h5
+{
+  margin-left:150px;
+}
+img{
+    margin-left:150px;
+}
+h4{
+    margin-left:180px;
+}
+h6{
+    margin-left:150px;
+}
+
+
+

@@ -1,0 +1,26 @@
+
+
+.div
+{
+   background-color: black;
+   color:red;
+   padding:20px;
+   opacity:0.7;
+}
+.img
+{
+   background-image:url("https://www.techadvisor.com/wp-content/uploads/2022/06/netflix_hd_2.jpg?quality=50&strip=all&w=1024");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height:700px;
+   width:1530px;
+   
+   
+}
+.firstimg
+{
+   height:700px;
+   width:100spx;
+   padding:150px;
+   
+}

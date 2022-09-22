@@ -1,0 +1,154 @@
+
+.step1
+{
+    background-image:url("https://i.ytimg.com/vi/cm8_0fZmspI/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+    width:1540px;
+
+}
+.color
+{
+  color:red;
+  position: relative;
+  left:100px;
+}
+.color2
+{
+    position: relative;
+    left:170px;
+    top:-55px;
+    color: aliceblue;
+}
+.table{
+    color: aliceblue;
+
+}
+li{
+    display: inline-block;
+    margin:40px;
+    position:relative;
+    right:50px;
+    float:left;
+    position: relative;
+    top:-130px;
+    font-weight: bold; 
+}
+
+    
+
+.center
+{
+    color:white;
+    text-align: center;
+    position: relative;
+    top:-50px;
+}
+.center1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    color: aliceblue;
+    position: relative;
+    bottom:-40px;
+}
+button
+{
+    background-color:red;
+    position: relative;
+    bottom:-100px;
+    color: aliceblue;
+}
+.box1
+{
+     color:black;
+    position: relative;
+    bottom:-100px;
+    text-align:justify;
+}
+.box2
+{
+     color:black;
+    position: relative;
+    bottom:-100px;
+    right:-20px;
+    text-align:justify;
+}
+.box3
+{
+     color:black;
+    position: relative;
+    bottom:-100px;
+    right:-50px;
+    text-align:justify;
+}
+h5{
+    text-align: center;
+}
+img
+{
+    position: relative;
+    left:150px;
+}
+.cen{
+    background-color:red;
+    position: relative;
+    bottom:-50px;
+    left:140px;
+    color: aliceblue;  
+}
+.bottom
+{
+    border:solid;
+    border-color:white;
+    height:500px;
+    width:1540px;
+    position: relative;
+    bottom:-200px;
+}
+.bottom1
+{
+    height:200px;
+    width:200px;
+}
+.bottom2
+{
+    height:200px;
+    width:200px;
+    position: relative;
+    left:250px;
+    bottom:-40px;
+}
+.bottom1
+{ 
+    position: relative;
+    top:20px;
+}
+
+.red
+{
+    color:red;
+}
+.text
+{
+    color: black;
+    position: relative;
+    left:850px;
+    top:-300px;
+    border:solid;
+    height:500px;
+    width:600px;
+    border-color:white;
+}
+.end
+{
+    position: relative;
+    right:-250px;
+    
+}
+.para
+{
+    text-align:center;
+    
+}

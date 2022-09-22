@@ -1,0 +1,31 @@
+.img
+{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-repeat: no-repeat;
+    border:solid;
+    height:600px;
+    width:400px;
+    margin:500px;
+}
+div{
+    background-color:#00000080;
+    opacity:1;
+    border:solid;
+    border-color: #48ee59;
+    border-width: 05px;
+    height: 250px;
+    width: 300px;
+    position: relative;
+    top: 200px;
+    left:5px;
+    margin-left: 50px;
+    
+    
+}
+h1{
+    text-align: center;
+    color:white;
+    font-size:45px;
+    padding: 10px;
+    
+}
